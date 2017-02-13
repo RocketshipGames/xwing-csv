@@ -18,7 +18,8 @@ this repository itself:
   became available in stores, but before much of it has seen much
   tournament use---the U-Wing and TIE Striker came out almost exactly
   2 months ago with the release of *Rogue One*, but the Upsilon-Class
-  Shuttle, Quadjumper, and Sabine's TIE Fighter just 2 weeks ago.
+  Shuttle, Quadjumper, and Sabine's TIE Fighter just hit stores 2
+  weeks ago.
   
   * [`archives/20160212-ships.csv`](https://github.com/RocketshipGames/xwing-csv/raw/master/archives/20160212-ships.csv):
     Summary of all ships in the game right now.

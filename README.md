@@ -17,8 +17,8 @@ this repository itself:
 * February 12, 2017: This is very shortly after the entirety of Wave X
   became available in stores, but before much of it has seen much
   tournament use---the U-Wing and TIE Striker came out almost exactly
-  2 months ago with the release of *Rogue One*, but the Upsilon-Class
-  Shuttle, Quadjumper, and Sabine's TIE Fighter just hit stores 2
+  two months ago with the release of *Rogue One*, but the Upsilon-Class
+  Shuttle, Quadjumper, and Sabine's TIE Fighter just hit stores two
   weeks ago.
   
   * [`archives/20160212-ships.csv`](https://github.com/RocketshipGames/xwing-csv/raw/master/archives/20160212-ships.csv):

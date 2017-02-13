@@ -31,7 +31,7 @@ is included in this repository itself:
   * [`archives/20160212-lists.csv`](https://github.com/RocketshipGames/xwing-csv/raw/master/archives/20160212-lists.csv): Summary of all lists in ListJuggler.
 
 These should be able to be imported into all major spreadsheet
-packages.  The smaller files can also be viewed in tabular format
+packages.  The smaller files can also be viewed in tabular fashion
 [directly](https://github.com/RocketshipGames/xwing-csv/tree/master/archives)
 in GitHub's viewer.
 

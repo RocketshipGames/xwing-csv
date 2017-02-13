@@ -1,4 +1,4 @@
-# Ship Data
+# X-Wing CSV
 
 This repository provides simple scripts to pull, fuse, and transform
 data from [X-Wing Data](https://github.com/guidokessels/xwing-data)
@@ -21,9 +21,7 @@ this repository itself:
   
   * [`archives/20160212-ships.csv`](https://github.com/RocketshipGames/xwing-csv/raw/master/archives/20160212-ships.csv):
     Summary of all ships in the game right now.
-  
-  * [`archives/20160212-pilots.csv`](https://github.com/RocketshipGames/xwing-csv/raw/master/archives/20160212-pilots.csv): Summary of all pilots in the game right now
-    and their use.
+  * [`archives/20160212-pilots.csv`](https://github.com/RocketshipGames/xwing-csv/raw/master/archives/20160212-pilots.csv): Summary of all pilots in the game right now and their use.
   * [`archives/20160212-lists.csv`](https://github.com/RocketshipGames/xwing-csv/raw/master/archives/20160212-lists.csv): Summary of all lists in ListJuggler.
 
 ## Dependencies

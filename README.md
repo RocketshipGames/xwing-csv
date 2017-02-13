@@ -1,4 +1,4 @@
-# X-Wing CSV <img src="https://raw.githubusercontent.com/RocketshipGames/xwing-csv/master/x-wing.png" height="64" title="X-Wing CSV" alt="Icon of an X-Wing" />
+# X-Wing CSV <img src="https://raw.githubusercontent.com/RocketshipGames/xwing-csv/master/x-wing.png" height="48" title="X-Wing CSV" alt="Icon of an X-Wing" />
 
 This repository provides simple scripts to pull, fuse, and transform
 data from [X-Wing Data](https://github.com/guidokessels/xwing-data)

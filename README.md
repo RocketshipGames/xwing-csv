@@ -17,9 +17,12 @@ this repository itself:
 * February 12, 2017: This is very shortly after the entirety of Wave X
   became available in stores, but before much of it has seen much
   tournament use---the U-Wing and TIE Striker came out almost exactly
-  two months ago with the release of *Rogue One*, but the Upsilon-Class
-  Shuttle, Quadjumper, and Sabine's TIE Fighter just hit stores two
-  weeks ago.
+  two months ago with the release of *Rogue One*, but the
+  Upsilon-Class Shuttle, Quadjumper, and Sabine's TIE Fighter just hit
+  stores two weeks ago.  This capture is based on 1556 tournaments
+  reporting results, comprising 21,529 squadron lists and 67,107 pilot
+  instances.  The "Recent" data is from the past four months,
+  comprising 256 tournaments, 3,869 lists, and 10,973 pilot instances.
   
   * [`archives/20160212-ships.csv`](https://github.com/RocketshipGames/xwing-csv/raw/master/archives/20160212-ships.csv):
     Summary of all ships in the game right now.

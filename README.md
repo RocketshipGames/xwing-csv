@@ -33,32 +33,32 @@ down tournament data from ListJuggler.
 
 The script creates the following CSV files:
 
-  * `ships.csv`: All the nominal ships stats and properties.
-    Technically stats are associated with specific pilot cards, but in
-    reality there is only one pilot with different stats for its
-    class: The [Outer Rim
-    Smuggler](http://xwing-miniatures.wikia.com/wiki/Outer_Rim_Smuggler),
-    a lesser version of the YT-1300.  So most people tend to think in
-    terms of ship chassis and associated stats, which are presented
-    here.  The Smuggler is included as a separate entry.
+* `ships.csv`: All the nominal ships stats and properties.
+  Technically stats are associated with specific pilot cards, but in
+  reality there is only one pilot with different stats for its class:
+  The [Outer Rim
+  Smuggler](http://xwing-miniatures.wikia.com/wiki/Outer_Rim_Smuggler),
+  a lesser version of the YT-1300.  So most people tend to think in
+  terms of ship chassis and associated stats, which are presented
+  here.  The Smuggler is included as a separate entry.
 
-  * `pilots.csv`: All of the pilots in the game, their ship stats, and
-    counts breaking down all the times that pilot has been used in a
-    list captured in ListJuggler.
+* `pilots.csv`: All of the pilots in the game, their ship stats, and
+  counts breaking down all the times that pilot has been used in a
+  list captured in ListJuggler.
     
-    For simplicity, the compilation excludes:
+  For simplicity, the compilation excludes:
     
-    ** Epic Play: Tournaments for Epic games are ignored, as are the
-       huge ships since they're only for Epic play and complicate
-       analysis with fore & aft sections.
-    
-    ** The Nashtah Pup: It's not fieldable on its own.
+  * Epic Play: Tournaments for Epic games are ignored, as are the huge
+    ships since they're only for Epic play and complicate analysis
+    with fore & aft sections.
+  
+  * The Nashtah Pup: It's not fieldable on its own.
 
-  * `lists.csv`: Summaries of all the lists captured in ListJuggler.
-    The core of this are summed stats needed to do some [simple
-    analysis](http://www.rocketshipgames.com/blogs/tjkopena/2016/12/x-wing-beginner-squad-building/)
-    based on raw attacks, agility, hull points+shields, and the number
-    of ships.
+* `lists.csv`: Summaries of all the lists captured in ListJuggler.
+  The core of this are summed stats needed to do some [simple
+  analysis](http://www.rocketshipgames.com/blogs/tjkopena/2016/12/x-wing-beginner-squad-building/)
+  based on raw attacks, agility, hull points+shields, and the number
+  of ships.
 
 The script also generates `pilot-duplicates.csv`, but this is only for
 development purposes (there are several duplicate entities following

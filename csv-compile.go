@@ -868,6 +868,13 @@ func readtournament(file string, parent *logberry.Task) error {
 			task.Warning("List was over 100 points", points)
 			continue
 		}
+
+		/*
+		if points < 50 {
+			task.Warning("List spent under 50 points on ships", points)
+			continue
+		}
+    */
 		
 		// Update stats for this player's pilots
 		for _,pilotinstance := range(player.List.Pilots) {

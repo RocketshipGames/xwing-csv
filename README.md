@@ -11,8 +11,9 @@ to incorporate some quantitative analysis into their list building.
 
 ## Data Archive
 
-For convenience, a collection of archived script output is included in
-this repository itself:
+For convenience, a collection of [archived script
+output](https://github.com/RocketshipGames/xwing-csv/tree/master/archives)
+is included in this repository itself:
 
 * February 12, 2017: This is very shortly after the entirety of Wave X
   became available in stores, but before much of it has seen much

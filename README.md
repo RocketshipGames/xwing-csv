@@ -9,6 +9,31 @@ particular, it provides a tool to export pilot stats and usage data to
 CSV so non-programmers can easily use their spreadsheet tool of choice
 to incorporate some quantitative analysis into their list building.
 
+## Data Archive
+
+For convenience, a collection of archived script output is included in
+this repository itself:
+
+* February 12, 2017: This is very shortly after the entirety of Wave X
+  became available in stores, but before much of it has seen much
+  tournament use---the U-Wing and TIE Striker came out about 2 months
+  ago, but the QuadJumper and Sabine's TIE just 2 weeks ago.
+  
+  * [`archives/20160212-ships.csv`](https://github.com/RocketshipGames/xwing-csv/raw/master/archives/20160212-ships.csv):
+    Summary of all ships in the game right now.
+  
+  * [`archives/20160212-pilots.csv`](https://github.com/RocketshipGames/xwing-csv/raw/master/archives/20160212-pilots.csv): Summary of all pilots in the game right now
+    and their use.
+  * [`archives/20160212-lists.csv`](https://github.com/RocketshipGames/xwing-csv/raw/master/archives/20160212-lists.csv): Summary of all lists in ListJuggler.
+
+## Dependencies
+
+The scripts require the
+[Logberry](https://github.com/BellerophonMobile/logberry) logging
+package, which can be easily installed with:
+
+  % go get -u github.com/BellerophonMobile/logberry
+
 ## Scripts
 
 The tools are all written as Go programs intended to be used in script
@@ -44,14 +69,11 @@ The script creates the following CSV files:
 
 * `pilots.csv`: All of the pilots in the game, their ship stats, and
   counts breaking down all the times that pilot has been used in a
-  list captured in ListJuggler.
-    
-  For simplicity, the compilation excludes:
-    
+  list captured in ListJuggler.  For simplicity, the compilation
+  excludes:    
   * Epic Play: Tournaments for Epic games are ignored, as are the huge
     ships since they're only for Epic play and complicate analysis
-    with fore & aft sections.
-  
+    with fore & aft sections.  
   * The Nashtah Pup: It's not fieldable on its own.
 
 * `lists.csv`: Summaries of all the lists captured in ListJuggler.

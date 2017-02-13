@@ -94,6 +94,10 @@ func main() {
 
 }
 
+func csvtext(s string) string {
+	return "\"" + strings.Replace(s, "\"", "\"\"", -1) + "\""
+}
+
 type DataCounts struct {
 	Tournaments int
 	ListInstances int
@@ -139,7 +143,7 @@ func (f Flags) Check(flag string) string {
 
 	if ok {
 		if strings.Contains(flag, " ") {
-			return "'" + flag + "'"
+			return csvtext(flag)
 		}
 		
 		return flag
@@ -403,8 +407,8 @@ func writeshipstats() error {
 
 		sactions := NewFlags(ship.Actions)
 		
-		fmt.Fprintf(f, "'%v',%v,%v,%v,%v,%v,%v,%v,%v,%v,%v\n",
-			ship.Name,
+		fmt.Fprintf(f, "%v,%v,%v,%v,%v,%v,%v,%v,%v,%v,%v\n",
+			csvtext(ship.Name),
 			factions.Check("rebel"),
 			factions.Check("imperial"),
 			factions.Check("scum"),
@@ -543,10 +547,10 @@ func writeduplicatepilots() error {
 			continue
 		}
 		
-		fmt.Fprintf(d, "'%v'", k)
+		fmt.Fprintf(d, "%v", csvtext(k))
 
 		for _,p := range(l) {
-			fmt.Fprintf(d, ",%v,'%v',%v", p.XWS, p.ship.Name, p.ship.XWS)
+			fmt.Fprintf(d, ",%v,%v,%v", p.XWS, csvtext(p.ship.Name), p.ship.XWS)
 		}
 
 		fmt.Fprintln(d)
@@ -581,20 +585,20 @@ func writepilotstats() error {
 		"Hull",
 		"Shields",
 		keyfields(slots),
-		"'Total All Time Uses'",
-		"'World Championship All Time Uses'",
-		"'Nationals All Time Uses'",
-		"'Regional All Time Uses'",
-		"'Store Championship All Time Uses'",
-		"'Vassal All Time Uses'",
-		"'Other All Time Uses'",
-		"'Total Recent Uses'",
-		"'World Championship Recent Uses'",
-		"'Nationals Recent Uses'",
-		"'Regional Recent Uses'",
-		"'Store Championship Recent Uses'",
-		"'Vassal Recent Uses'",
-		"'Other Recent Uses'",
+		csvtext("Total All Time Uses"),
+		csvtext("World Championship All Time Uses"),
+		csvtext("Nationals All Time Uses"),
+		csvtext("Regional All Time Uses"),
+		csvtext("Store Championship All Time Uses"),
+		csvtext("Vassal All Time Uses"),
+		csvtext("Other All Time Uses"),
+		csvtext("Total Recent Uses"),
+		csvtext("World Championship Recent Uses"),
+		csvtext("Nationals Recent Uses"),
+		csvtext("Regional Recent Uses"),
+		csvtext("Store Championship Recent Uses"),
+		csvtext("Vassal Recent Uses"),
+		csvtext("Other Recent Uses"),
 	}
 	fmt.Fprintln(f, strings.Join(fields, ","))
 
@@ -618,7 +622,7 @@ func writepilotstats() error {
 		pslots := NewFlags(pilot.Slots)
 
 		data := []interface{}{
-			fmt.Sprintf("'%v'", pilot.Name),
+			csvtext(pilot.Name),
 			pilot.XWS,
 			faction,
 			pilot.Ship,
@@ -1018,14 +1022,14 @@ func writeliststats() error {
 		"Scope",
 		"Country",
 		"State",
-		"'# Players'",
+		csvtext("# Players"),
 		"Rank",
 		"Faction",
-		"'Ship Points'",
-		"'# Ships'",
-		"'# Uniques'",
-		"'# Large'",
-		"'# Small'",
+		csvtext("Ship Points"),
+		csvtext("# Ships"),
+		csvtext("# Uniques"),
+		csvtext("# Large"),
+		csvtext("# Small"),
 		"Skill",
 		"Attack",
 		"Agility",
@@ -1043,10 +1047,10 @@ func writeliststats() error {
 		}
 		
 		data := []interface{}{
-			fmt.Sprintf("'%v'", list.EventDate),
-			fmt.Sprintf("'%v'", list.EventScope),
-			fmt.Sprintf("'%v'", list.EventCountry),
-			fmt.Sprintf("'%v'", list.EventState),
+			fmt.Sprintf("%v", csvtext(list.EventDate)),
+			fmt.Sprintf("%v", csvtext(list.EventScope)),
+			fmt.Sprintf("%v", csvtext(list.EventCountry)),
+			fmt.Sprintf("%v", csvtext(list.EventState)),
 			list.EventPlayers,
 			list.EventRank,
 			list.List.Faction,
@@ -1060,7 +1064,7 @@ func writeliststats() error {
 			stats.SumAgility,
 			stats.SumHull,
 			stats.SumShields,
-			fmt.Sprintf("'%v'", stats.Text),
+			csvtext(stats.Text),
 		}
 		var line string = fmt.Sprint(data[0])
 		for _,d := range(data[1:]) {

@@ -1,49 +1,49 @@
 Name,Rebel,Imperial,Scum,Size,Attack,Agility,Hull,Shields,Focus,Target Lock,Barrel Roll,Evade,Boost,Cloak,SLAM,Rotate Arc,XWS
-'X-Wing',rebel,,,small,3,2,3,2,Focus,'Target Lock',,,,,,,xwing
-'Y-Wing',rebel,,scum,small,2,1,5,3,Focus,'Target Lock',,,,,,,ywing
-'A-Wing',rebel,,,small,2,3,2,2,Focus,'Target Lock',,Evade,Boost,,,,awing
-'YT-1300',rebel,,,large,3,1,8,5,Focus,'Target Lock',,,,,,,yt1300
-'TIE Fighter',rebel,imperial,,small,2,3,3,0,Focus,,'Barrel Roll',Evade,,,,,tiefighter
-'TIE Advanced',,imperial,,small,2,3,3,2,Focus,'Target Lock','Barrel Roll',Evade,,,,,tieadvanced
-'TIE Interceptor',,imperial,,small,3,3,3,0,Focus,,'Barrel Roll',Evade,Boost,,,,tieinterceptor
-'Firespray-31',,imperial,scum,large,3,2,6,4,Focus,'Target Lock',,Evade,,,,,firespray31
-'HWK-290',rebel,,scum,small,1,2,4,1,Focus,'Target Lock',,,,,,,hwk290
-'Lambda-Class Shuttle',,imperial,,large,3,1,5,5,Focus,'Target Lock',,,,,,,lambdaclassshuttle
-'B-Wing',rebel,,,small,3,1,3,5,Focus,'Target Lock','Barrel Roll',,,,,,bwing
-'TIE Bomber',,imperial,,small,2,2,6,0,Focus,'Target Lock','Barrel Roll',,,,,,tiebomber
-'GR-75 Medium Transport',rebel,,,huge,0,0,8,4,,,,,,,,,gr75mediumtransport
-'Z-95 Headhunter',rebel,,scum,small,2,2,2,2,Focus,'Target Lock',,,,,,,z95headhunter
-'TIE Defender',,imperial,,small,3,3,3,3,Focus,'Target Lock','Barrel Roll',,,,,,tiedefender
-'E-Wing',rebel,,,small,3,3,2,3,Focus,'Target Lock','Barrel Roll',Evade,,,,,ewing
-'TIE Phantom',,imperial,,small,4,2,2,2,Focus,,'Barrel Roll',Evade,,Cloak,,,tiephantom
-'CR90 Corvette (Fore)',rebel,,,huge,4,0,8,5,,'Target Lock',,,,,,,cr90corvettefore
-'CR90 Corvette (Aft)',rebel,,,huge,0,0,8,3,,,,,,,,,cr90corvetteaft
-'YT-2400',rebel,,,large,2,2,5,5,Focus,'Target Lock','Barrel Roll',,,,,,yt2400
-'VT-49 Decimator',,imperial,,large,3,0,12,4,Focus,'Target Lock',,,,,,,vt49decimator
-'StarViper',,,scum,small,3,3,4,1,Focus,'Target Lock','Barrel Roll',,Boost,,,,starviper
-'M3-A Interceptor',,,scum,small,2,3,2,1,Focus,'Target Lock','Barrel Roll',Evade,,,,,m3ainterceptor
-'Aggressor',,,scum,large,3,3,4,4,Focus,'Target Lock',,Evade,Boost,,,,aggressor
-'Raider-class Corvette (Fore)',,imperial,,huge,4,0,8,6,,,,,,,,,raiderclasscorvettefore
-'Raider-class Corvette (Aft)',,imperial,,huge,0,0,8,4,,'Target Lock',,,,,,,raiderclasscorvetteaft
-'YV-666',,,scum,large,3,1,6,6,Focus,'Target Lock',,,,,,,yv666
-'Kihraxz Fighter',,,scum,small,3,2,4,1,Focus,'Target Lock',,,,,,,kihraxzfighter
-'K-Wing',rebel,,,small,2,1,5,4,Focus,'Target Lock',,,,,SLAM,,kwing
-'TIE Punisher',,imperial,,small,2,1,6,3,Focus,'Target Lock',,,Boost,,,,tiepunisher
-'T-70 X-Wing',rebel,,,small,3,2,3,3,Focus,'Target Lock',,,Boost,,,,t70xwing
-'TIE/fo Fighter',,imperial,,small,2,3,3,1,Focus,'Target Lock','Barrel Roll',Evade,,,,,tiefofighter
-'VCX-100',rebel,,,large,4,0,10,6,Focus,'Target Lock',,Evade,,,,,vcx100
-'Attack Shuttle',rebel,,,small,3,2,2,2,Focus,,'Barrel Roll',Evade,,,,,attackshuttle
-'JumpMaster 5000',,,scum,large,2,2,5,4,Focus,'Target Lock','Barrel Roll',,,,,,jumpmaster5000
-'G-1A Starfighter',,,scum,small,3,1,4,4,Focus,'Target Lock',,Evade,,,,,g1astarfighter
-'TIE Adv. Prototype',,imperial,,small,2,3,2,2,Focus,'Target Lock','Barrel Roll',,Boost,,,,tieadvprototype
-'Gozanti-Class Cruiser',,imperial,,huge,0,0,9,5,,'Target Lock',,,,,,,gozanticlasscruiser
-'ARC-170',rebel,,,small,2,1,6,3,Focus,'Target Lock',,,,,,,arc170
-'TIE/sf Fighter',,imperial,,small,2,2,3,3,Focus,'Target Lock','Barrel Roll',,,,,,tiesffighter
-'Protectorate Starfighter',,,scum,small,3,3,4,0,Focus,'Target Lock','Barrel Roll',,Boost,,,,protectoratestarfighter
-'Lancer-class Pursuit Craft',,,scum,large,3,2,7,3,Focus,'Target Lock',,Evade,,,,'Rotate Arc',lancerclasspursuitcraft
-'Upsilon-class Shuttle',,imperial,,large,4,1,6,6,Focus,'Target Lock',,,,,,,upsilonclassshuttle
-'Quadjumper',,,scum,small,2,2,5,0,Focus,,'Barrel Roll',,,,,,quadjumper
-'TIE Striker',,imperial,,small,3,2,4,0,Focus,,'Barrel Roll',Evade,,,,,tiestriker
-'U-Wing',rebel,,,large,3,1,4,4,,'Target Lock',,,,,,,uwing
-'C-ROC Cruiser',,,scum,huge,0,0,10,4,,'Target Lock',,,,,,,croccruiser
-'YT-1300 (Outer Rim Smuggler)',rebel,,,large,2,1,6,4,Focus,'Target Lock',,,,,,,yt1300outerrimsmuggler
+"X-Wing",rebel,,,small,3,2,3,2,Focus,"Target Lock",,,,,,,xwing
+"Y-Wing",rebel,,scum,small,2,1,5,3,Focus,"Target Lock",,,,,,,ywing
+"A-Wing",rebel,,,small,2,3,2,2,Focus,"Target Lock",,Evade,Boost,,,,awing
+"YT-1300",rebel,,,large,3,1,8,5,Focus,"Target Lock",,,,,,,yt1300
+"TIE Fighter",rebel,imperial,,small,2,3,3,0,Focus,,"Barrel Roll",Evade,,,,,tiefighter
+"TIE Advanced",,imperial,,small,2,3,3,2,Focus,"Target Lock","Barrel Roll",Evade,,,,,tieadvanced
+"TIE Interceptor",,imperial,,small,3,3,3,0,Focus,,"Barrel Roll",Evade,Boost,,,,tieinterceptor
+"Firespray-31",,imperial,scum,large,3,2,6,4,Focus,"Target Lock",,Evade,,,,,firespray31
+"HWK-290",rebel,,scum,small,1,2,4,1,Focus,"Target Lock",,,,,,,hwk290
+"Lambda-Class Shuttle",,imperial,,large,3,1,5,5,Focus,"Target Lock",,,,,,,lambdaclassshuttle
+"B-Wing",rebel,,,small,3,1,3,5,Focus,"Target Lock","Barrel Roll",,,,,,bwing
+"TIE Bomber",,imperial,,small,2,2,6,0,Focus,"Target Lock","Barrel Roll",,,,,,tiebomber
+"GR-75 Medium Transport",rebel,,,huge,0,0,8,4,,,,,,,,,gr75mediumtransport
+"Z-95 Headhunter",rebel,,scum,small,2,2,2,2,Focus,"Target Lock",,,,,,,z95headhunter
+"TIE Defender",,imperial,,small,3,3,3,3,Focus,"Target Lock","Barrel Roll",,,,,,tiedefender
+"E-Wing",rebel,,,small,3,3,2,3,Focus,"Target Lock","Barrel Roll",Evade,,,,,ewing
+"TIE Phantom",,imperial,,small,4,2,2,2,Focus,,"Barrel Roll",Evade,,Cloak,,,tiephantom
+"CR90 Corvette (Fore)",rebel,,,huge,4,0,8,5,,"Target Lock",,,,,,,cr90corvettefore
+"CR90 Corvette (Aft)",rebel,,,huge,0,0,8,3,,,,,,,,,cr90corvetteaft
+"YT-2400",rebel,,,large,2,2,5,5,Focus,"Target Lock","Barrel Roll",,,,,,yt2400
+"VT-49 Decimator",,imperial,,large,3,0,12,4,Focus,"Target Lock",,,,,,,vt49decimator
+"StarViper",,,scum,small,3,3,4,1,Focus,"Target Lock","Barrel Roll",,Boost,,,,starviper
+"M3-A Interceptor",,,scum,small,2,3,2,1,Focus,"Target Lock","Barrel Roll",Evade,,,,,m3ainterceptor
+"Aggressor",,,scum,large,3,3,4,4,Focus,"Target Lock",,Evade,Boost,,,,aggressor
+"Raider-class Corvette (Fore)",,imperial,,huge,4,0,8,6,,,,,,,,,raiderclasscorvettefore
+"Raider-class Corvette (Aft)",,imperial,,huge,0,0,8,4,,"Target Lock",,,,,,,raiderclasscorvetteaft
+"YV-666",,,scum,large,3,1,6,6,Focus,"Target Lock",,,,,,,yv666
+"Kihraxz Fighter",,,scum,small,3,2,4,1,Focus,"Target Lock",,,,,,,kihraxzfighter
+"K-Wing",rebel,,,small,2,1,5,4,Focus,"Target Lock",,,,,SLAM,,kwing
+"TIE Punisher",,imperial,,small,2,1,6,3,Focus,"Target Lock",,,Boost,,,,tiepunisher
+"T-70 X-Wing",rebel,,,small,3,2,3,3,Focus,"Target Lock",,,Boost,,,,t70xwing
+"TIE/fo Fighter",,imperial,,small,2,3,3,1,Focus,"Target Lock","Barrel Roll",Evade,,,,,tiefofighter
+"VCX-100",rebel,,,large,4,0,10,6,Focus,"Target Lock",,Evade,,,,,vcx100
+"Attack Shuttle",rebel,,,small,3,2,2,2,Focus,,"Barrel Roll",Evade,,,,,attackshuttle
+"JumpMaster 5000",,,scum,large,2,2,5,4,Focus,"Target Lock","Barrel Roll",,,,,,jumpmaster5000
+"G-1A Starfighter",,,scum,small,3,1,4,4,Focus,"Target Lock",,Evade,,,,,g1astarfighter
+"TIE Adv. Prototype",,imperial,,small,2,3,2,2,Focus,"Target Lock","Barrel Roll",,Boost,,,,tieadvprototype
+"Gozanti-Class Cruiser",,imperial,,huge,0,0,9,5,,"Target Lock",,,,,,,gozanticlasscruiser
+"ARC-170",rebel,,,small,2,1,6,3,Focus,"Target Lock",,,,,,,arc170
+"TIE/sf Fighter",,imperial,,small,2,2,3,3,Focus,"Target Lock","Barrel Roll",,,,,,tiesffighter
+"Protectorate Starfighter",,,scum,small,3,3,4,0,Focus,"Target Lock","Barrel Roll",,Boost,,,,protectoratestarfighter
+"Lancer-class Pursuit Craft",,,scum,large,3,2,7,3,Focus,"Target Lock",,Evade,,,,"Rotate Arc",lancerclasspursuitcraft
+"Upsilon-class Shuttle",,imperial,,large,4,1,6,6,Focus,"Target Lock",,,,,,,upsilonclassshuttle
+"Quadjumper",,,scum,small,2,2,5,0,Focus,,"Barrel Roll",,,,,,quadjumper
+"TIE Striker",,imperial,,small,3,2,4,0,Focus,,"Barrel Roll",Evade,,,,,tiestriker
+"U-Wing",rebel,,,large,3,1,4,4,,"Target Lock",,,,,,,uwing
+"C-ROC Cruiser",,,scum,huge,0,0,10,4,,"Target Lock",,,,,,,croccruiser
+"YT-1300 (Outer Rim Smuggler)",rebel,,,large,2,1,6,4,Focus,"Target Lock",,,,,,,yt1300outerrimsmuggler

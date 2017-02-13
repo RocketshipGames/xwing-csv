@@ -47,11 +47,11 @@ The script creates the following CSV files:
     list captured in ListJuggler.
     
     For simplicity, the compilation excludes:
-
+    
     ** Epic Play: Tournaments for Epic games are ignored, as are the
        huge ships since they're only for Epic play and complicate
        analysis with fore & aft sections.
-
+    
     ** The Nashtah Pup: It's not fieldable on its own.
 
   * `lists.csv`: Summaries of all the lists captured in ListJuggler.

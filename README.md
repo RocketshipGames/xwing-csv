@@ -35,7 +35,7 @@ The scripts require the
 [Logberry](https://github.com/BellerophonMobile/logberry) logging
 package, which can be easily installed with:
 
-  % go get -u github.com/BellerophonMobile/logberry
+    % go get -u github.com/BellerophonMobile/logberry
 
 ## Scripts
 

@@ -1,21 +1,21 @@
 Name,XWS,Faction,Ship,Unique,Size,Points,Skill,Attack,Agility,Hull,Shields,Elite,Astromech,Salvaged Astromech,Crew,System,Tech,Turret,Torpedo,Missile,Cannon,Bomb,Illicit,"Total All Time Uses","World Championship All Time Uses","Nationals All Time Uses","Regional All Time Uses","Store Championship All Time Uses","Vassal All Time Uses","Other All Time Uses","Total Recent Uses","World Championship Recent Uses","Nationals Recent Uses","Regional Recent Uses","Store Championship Recent Uses","Vassal Recent Uses","Other Recent Uses"
-"Wedge Antilles",wedgeantilles,rebel,X-Wing,unique,small,29,9,3,2,3,2,1,1,0,0,0,0,0,1,0,0,0,0,513,15,7,90,177,0,224,39,0,0,17,4,0,18
+"Wedge Antilles",wedgeantilles,rebel,X-Wing,unique,small,29,9,3,2,3,2,1,1,0,0,0,0,0,1,0,0,0,0,511,15,7,88,177,0,224,39,0,0,17,4,0,18
 "Garven Dreis",garvendreis,rebel,X-Wing,unique,small,26,6,3,2,3,2,0,1,0,0,0,0,0,1,0,0,0,0,72,2,0,12,24,0,34,3,0,0,1,0,0,2
-"Red Squadron Pilot",redsquadronpilot,rebel,X-Wing,,small,23,4,3,2,3,2,0,1,0,0,0,0,0,1,0,0,0,0,76,5,0,10,16,0,45,10,0,0,1,0,0,9
-"Rookie Pilot",rookiepilot,rebel,X-Wing,,small,21,2,3,2,3,2,0,1,0,0,0,0,0,1,0,0,0,0,402,13,8,96,143,2,140,28,0,0,13,0,0,15
-"Biggs Darklighter",biggsdarklighter,rebel,X-Wing,unique,small,25,5,3,2,3,2,0,1,0,0,0,0,0,1,0,0,0,0,887,19,25,253,211,1,378,209,0,0,99,11,0,99
+"Red Squadron Pilot",redsquadronpilot,rebel,X-Wing,,small,23,4,3,2,3,2,0,1,0,0,0,0,0,1,0,0,0,0,74,5,0,8,16,0,45,10,0,0,1,0,0,9
+"Rookie Pilot",rookiepilot,rebel,X-Wing,,small,21,2,3,2,3,2,0,1,0,0,0,0,0,1,0,0,0,0,395,13,8,89,143,2,140,27,0,0,12,0,0,15
+"Biggs Darklighter",biggsdarklighter,rebel,X-Wing,unique,small,25,5,3,2,3,2,0,1,0,0,0,0,0,1,0,0,0,0,884,19,25,253,209,1,377,209,0,0,99,11,0,99
 "Luke Skywalker",lukeskywalker,rebel,X-Wing,unique,small,28,8,3,2,3,2,1,1,0,0,0,0,0,1,0,0,0,0,200,14,4,25,63,2,92,20,0,0,8,1,0,11
 "Gray Squadron Pilot",graysquadronpilot,rebel,Y-Wing,,small,20,4,2,1,5,3,0,1,0,0,0,0,1,2,0,0,0,0,163,8,1,40,52,0,62,17,0,0,6,0,0,11
 """Dutch"" Vander",dutchvander,rebel,Y-Wing,unique,small,23,6,2,1,5,3,0,1,0,0,0,0,1,2,0,0,0,0,158,4,3,24,60,1,66,19,0,0,7,1,0,11
 "Horton Salm",hortonsalm,rebel,Y-Wing,unique,small,25,8,2,1,5,3,0,1,0,0,0,0,1,2,0,0,0,0,196,3,4,24,88,4,73,16,0,0,6,3,0,7
-"Gold Squadron Pilot",goldsquadronpilot,rebel,Y-Wing,,small,18,2,2,1,5,3,0,1,0,0,0,0,1,2,0,0,0,0,1713,41,33,387,594,38,620,249,0,0,147,23,0,79
-"Academy Pilot",academypilot,imperial,TIE Fighter,,small,12,1,2,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2161,89,39,478,746,77,732,192,0,0,92,26,0,74
+"Gold Squadron Pilot",goldsquadronpilot,rebel,Y-Wing,,small,18,2,2,1,5,3,0,1,0,0,0,0,1,2,0,0,0,0,1707,41,33,386,589,38,620,248,0,0,146,23,0,79
+"Academy Pilot",academypilot,imperial,TIE Fighter,,small,12,1,2,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2159,89,39,477,746,77,731,191,0,0,91,26,0,74
 "Obsidian Squadron Pilot",obsidiansquadronpilot,imperial,TIE Fighter,,small,13,3,2,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,818,82,53,201,258,22,202,34,0,0,27,1,0,6
 "Black Squadron Pilot",blacksquadronpilot,imperial,TIE Fighter,,small,14,4,2,3,3,0,1,0,0,0,0,0,0,0,0,0,0,0,1079,43,27,288,374,5,342,72,0,0,35,8,0,29
 """Winged Gundark""",wingedgundark,imperial,TIE Fighter,unique,small,15,5,2,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,5,7,0,15,2,0,0,1,0,0,1
 """Night Beast""",nightbeast,imperial,TIE Fighter,unique,small,15,5,2,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,87,3,2,16,28,0,38,8,0,0,3,2,0,3
-"""Backstabber""",backstabber,imperial,TIE Fighter,unique,small,16,6,2,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,193,16,6,33,75,3,60,12,0,0,8,1,0,3
-"""Dark Curse""",darkcurse,imperial,TIE Fighter,unique,small,16,6,2,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,276,10,3,60,82,6,115,23,0,0,9,5,0,9
+"""Backstabber""",backstabber,imperial,TIE Fighter,unique,small,16,6,2,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,192,16,5,33,75,3,60,12,0,0,8,1,0,3
+"""Dark Curse""",darkcurse,imperial,TIE Fighter,unique,small,16,6,2,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,274,10,3,60,82,6,113,23,0,0,9,5,0,9
 """Mauler Mithel""",maulermithel,imperial,TIE Fighter,unique,small,17,7,2,3,3,0,1,0,0,0,0,0,0,0,0,0,0,0,208,4,4,39,78,3,80,17,0,0,7,3,0,7
 """Howlrunner""",howlrunner,imperial,TIE Fighter,unique,small,18,8,2,3,3,0,1,0,0,0,0,0,0,0,0,0,0,0,777,33,22,176,256,19,271,67,0,0,33,8,0,26
 "Maarek Stele",maarekstele,imperial,TIE Advanced,unique,small,27,7,2,3,3,2,1,0,0,0,0,0,0,0,1,0,0,0,91,0,7,3,24,3,54,5,0,0,0,0,0,5
@@ -27,25 +27,25 @@ Name,XWS,Faction,Ship,Unique,Size,Points,Skill,Attack,Agility,Hull,Shields,Elite
 "Saber Squadron Pilot",sabersquadronpilot,imperial,TIE Interceptor,,small,21,4,3,3,3,0,1,0,0,0,0,0,0,0,0,0,0,0,98,1,5,17,38,0,37,4,0,0,3,1,0,0
 """Fel's Wrath""",felswrath,imperial,TIE Interceptor,unique,small,23,5,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,1,3,3,0,3,1,0,0,0,1,0,0
 "Turr Phennir",turrphennir,imperial,TIE Interceptor,unique,small,25,7,3,3,3,0,1,0,0,0,0,0,0,0,0,0,0,0,237,4,4,52,71,1,105,17,0,0,8,1,0,8
-"Soontir Fel",soontirfel,imperial,TIE Interceptor,unique,small,27,9,3,3,3,0,1,0,0,0,0,0,0,0,0,0,0,0,2054,48,50,522,648,44,742,140,0,0,58,25,0,57
-"Tycho Celchu",tychocelchu,rebel,A-Wing,unique,small,26,8,2,3,2,2,1,0,0,0,0,0,0,0,1,0,0,0,211,3,6,36,58,0,108,14,0,0,5,2,0,7
-"Arvel Crynyd",arvelcrynyd,rebel,A-Wing,unique,small,23,6,2,3,2,2,0,0,0,0,0,0,0,0,1,0,0,0,40,0,0,7,12,0,21,3,0,0,2,0,0,1
-"Green Squadron Pilot",greensquadronpilot,rebel,A-Wing,,small,19,3,2,3,2,2,1,0,0,0,0,0,0,0,1,0,0,0,810,10,7,206,185,1,401,82,0,0,32,2,0,48
-"Prototype Pilot",prototypepilot,rebel,A-Wing,,small,17,1,2,3,2,2,0,0,0,0,0,0,0,0,1,0,0,0,754,22,11,157,279,17,268,54,0,0,20,4,0,30
-"Outer Rim Smuggler",outerrimsmuggler,rebel,YT-1300 (Outer Rim Smuggler),,large,27,1,2,1,6,4,0,0,0,2,0,0,0,0,0,0,0,0,36,1,1,4,16,3,11,5,0,0,1,0,0,4
+"Soontir Fel",soontirfel,imperial,TIE Interceptor,unique,small,27,9,3,3,3,0,1,0,0,0,0,0,0,0,0,0,0,0,2052,48,50,522,648,44,740,140,0,0,58,25,0,57
+"Tycho Celchu",tychocelchu,rebel,A-Wing,unique,small,26,8,2,3,2,2,1,0,0,0,0,0,0,0,1,0,0,0,210,2,6,36,58,0,108,14,0,0,5,2,0,7
+"Arvel Crynyd",arvelcrynyd,rebel,A-Wing,unique,small,23,6,2,3,2,2,0,0,0,0,0,0,0,0,1,0,0,0,38,0,0,7,11,0,20,3,0,0,2,0,0,1
+"Green Squadron Pilot",greensquadronpilot,rebel,A-Wing,,small,19,3,2,3,2,2,1,0,0,0,0,0,0,0,1,0,0,0,795,10,7,203,175,1,399,82,0,0,32,2,0,48
+"Prototype Pilot",prototypepilot,rebel,A-Wing,,small,17,1,2,3,2,2,0,0,0,0,0,0,0,0,1,0,0,0,688,17,11,144,245,17,254,52,0,0,18,4,0,30
+"Outer Rim Smuggler",outerrimsmuggler,rebel,YT-1300 (Outer Rim Smuggler),,large,27,1,2,1,6,4,0,0,0,2,0,0,0,0,0,0,0,0,35,1,1,4,15,3,11,5,0,0,1,0,0,4
 "Chewbacca",chewbacca,rebel,YT-1300,unique,large,42,5,3,1,8,5,1,0,0,2,0,0,0,0,1,0,0,0,685,33,25,187,236,0,204,64,0,0,32,6,0,26
 "Lando Calrissian",landocalrissian,rebel,YT-1300,unique,large,44,7,3,1,8,5,1,0,0,2,0,0,0,0,1,0,0,0,74,5,0,16,27,0,26,8,0,0,3,1,0,4
 "Han Solo",hansolo,rebel,YT-1300,unique,large,46,9,3,1,8,5,1,0,0,2,0,0,0,0,1,0,0,0,969,47,27,211,365,2,317,132,0,0,69,13,0,50
-"Kath Scarlet",kathscarlet,imperial,Firespray-31,unique,large,38,7,3,2,6,4,1,0,0,1,0,0,0,0,1,1,1,0,144,4,0,31,52,2,55,5,0,0,2,1,0,2
+"Kath Scarlet",kathscarlet,imperial,Firespray-31,unique,large,38,7,3,2,6,4,1,0,0,1,0,0,0,0,1,1,1,0,142,4,0,31,52,2,53,5,0,0,2,1,0,2
 "Boba Fett",bobafett,imperial,Firespray-31,unique,large,39,8,3,2,6,4,1,0,0,1,0,0,0,0,1,1,1,0,104,4,0,16,41,0,43,6,0,0,1,0,0,5
-"Krassis Trelix",krassistrelix,imperial,Firespray-31,unique,large,36,5,3,2,6,4,0,0,0,1,0,0,0,0,1,1,1,0,100,3,0,11,38,0,48,7,0,0,3,0,0,4
+"Krassis Trelix",krassistrelix,imperial,Firespray-31,unique,large,36,5,3,2,6,4,0,0,0,1,0,0,0,0,1,1,1,0,98,3,0,11,38,0,46,7,0,0,3,0,0,4
 "Bounty Hunter",bountyhunter,imperial,Firespray-31,,large,33,3,3,2,6,4,0,0,0,1,0,0,0,0,1,1,1,0,236,16,4,46,89,3,78,1,0,0,0,1,0,0
-"Ten Numb",tennumb,rebel,B-Wing,unique,small,31,8,3,1,3,5,1,0,0,0,1,0,0,2,0,1,0,0,259,3,4,54,87,1,110,20,0,0,9,3,0,8
+"Ten Numb",tennumb,rebel,B-Wing,unique,small,31,8,3,1,3,5,1,0,0,0,1,0,0,2,0,1,0,0,258,3,4,54,86,1,110,20,0,0,9,3,0,8
 "Ibtisam",ibtisam,rebel,B-Wing,unique,small,28,6,3,1,3,5,1,0,0,0,1,0,0,2,0,1,0,0,44,0,0,10,14,0,20,2,0,0,0,0,0,2
 "Dagger Squadron Pilot",daggersquadronpilot,rebel,B-Wing,,small,24,4,3,1,3,5,0,0,0,0,1,0,0,2,0,1,0,0,292,13,6,90,83,0,100,27,0,0,20,0,0,7
-"Blue Squadron Pilot",bluesquadronpilot,rebel,B-Wing,,small,22,2,3,1,3,5,0,0,0,0,1,0,0,2,0,1,0,0,2864,105,86,791,996,26,860,167,0,0,103,18,0,46
+"Blue Squadron Pilot",bluesquadronpilot,rebel,B-Wing,,small,22,2,3,1,3,5,0,0,0,0,1,0,0,2,0,1,0,0,2848,105,86,785,986,26,860,167,0,0,103,18,0,46
 "Rebel Operative",rebeloperative,rebel,HWK-290,,small,16,2,1,2,4,1,0,0,0,1,0,0,1,0,0,0,0,0,94,4,3,23,28,0,36,11,0,0,8,2,0,1
-"Roark Garnet",roarkgarnet,rebel,HWK-290,unique,small,19,4,1,2,4,1,0,0,0,1,0,0,1,0,0,0,0,0,163,12,4,23,69,3,52,7,0,0,5,0,0,2
+"Roark Garnet",roarkgarnet,rebel,HWK-290,unique,small,19,4,1,2,4,1,0,0,0,1,0,0,1,0,0,0,0,0,161,12,4,21,69,3,52,7,0,0,5,0,0,2
 "Kyle Katarn",kylekatarn,rebel,HWK-290,unique,small,21,6,1,2,4,1,1,0,0,1,0,0,1,0,0,0,0,0,205,3,1,35,59,0,107,19,0,0,5,0,0,14
 "Jan Ors",janors,rebel,HWK-290,unique,small,25,8,1,2,4,1,1,0,0,1,0,0,1,0,0,0,0,0,171,8,3,25,67,1,67,22,0,0,8,4,0,10
 "Scimitar Squadron Pilot",scimitarsquadronpilot,imperial,TIE Bomber,,small,16,2,2,2,6,0,0,0,0,0,0,0,0,2,2,0,1,0,257,8,1,79,70,7,92,30,0,0,16,2,0,12
@@ -61,39 +61,39 @@ Name,XWS,Faction,Ship,Unique,Size,Points,Skill,Attack,Agility,Hull,Shields,Elite
 "Tetran Cowall",tetrancowall,imperial,TIE Interceptor,unique,small,24,7,3,3,3,0,1,0,0,0,0,0,0,0,0,0,0,0,23,0,0,6,7,0,10,2,0,0,0,0,0,2
 "Kir Kanos",kirkanos,imperial,TIE Interceptor,unique,small,24,6,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,1,2,10,0,13,0,0,0,0,0,0,0
 "Carnor Jax",carnorjax,imperial,TIE Interceptor,unique,small,26,8,3,3,3,0,1,0,0,0,0,0,0,0,0,0,0,0,661,12,8,197,163,8,273,78,0,0,45,6,0,27
-"Bandit Squadron Pilot",banditsquadronpilot,rebel,Z-95 Headhunter,,small,12,2,2,2,2,2,0,0,0,0,0,0,0,0,1,0,0,0,2153,124,44,503,793,43,646,160,0,0,86,12,0,62
-"Tala Squadron Pilot",talasquadronpilot,rebel,Z-95 Headhunter,,small,13,4,2,2,2,2,0,0,0,0,0,0,0,0,1,0,0,0,955,73,39,196,368,16,263,36,0,0,18,0,0,18
+"Bandit Squadron Pilot",banditsquadronpilot,rebel,Z-95 Headhunter,,small,12,2,2,2,2,2,0,0,0,0,0,0,0,0,1,0,0,0,2129,124,44,495,777,43,646,160,0,0,86,12,0,62
+"Tala Squadron Pilot",talasquadronpilot,rebel,Z-95 Headhunter,,small,13,4,2,2,2,2,0,0,0,0,0,0,0,0,1,0,0,0,947,73,39,188,368,16,263,36,0,0,18,0,0,18
 "Lieutenant Blount",lieutenantblount,rebel,Z-95 Headhunter,unique,small,17,6,2,2,2,2,1,0,0,0,0,0,0,0,1,0,0,0,131,2,0,24,41,0,64,13,0,0,4,2,0,7
-"Airen Cracken",airencracken,rebel,Z-95 Headhunter,unique,small,19,8,2,2,2,2,1,0,0,0,0,0,0,0,1,0,0,0,198,8,2,43,76,4,65,13,0,0,4,2,0,7
-"Delta Squadron Pilot",deltasquadronpilot,imperial,TIE Defender,,small,30,1,3,3,3,3,0,0,0,0,0,0,0,0,1,1,0,0,274,7,7,95,43,5,117,98,0,0,67,1,0,30
-"Onyx Squadron Pilot",onyxsquadronpilot,imperial,TIE Defender,,small,32,3,3,3,3,3,0,0,0,0,0,0,0,0,1,1,0,0,50,2,2,9,12,0,25,13,0,0,5,1,0,7
-"Colonel Vessery",colonelvessery,imperial,TIE Defender,unique,small,35,6,3,3,3,3,1,0,0,0,0,0,0,0,1,1,0,0,801,10,20,292,93,4,382,380,0,0,210,13,0,157
-"Rexler Brath",rexlerbrath,imperial,TIE Defender,unique,small,37,8,3,3,3,3,1,0,0,0,0,0,0,0,1,1,0,0,236,6,2,46,73,1,108,40,0,0,19,0,0,21
-"Knave Squadron Pilot",knavesquadronpilot,rebel,E-Wing,,small,27,1,3,3,2,3,0,1,0,0,1,0,0,1,0,0,0,0,27,0,0,4,18,0,5,0,0,0,0,0,0,0
+"Airen Cracken",airencracken,rebel,Z-95 Headhunter,unique,small,19,8,2,2,2,2,1,0,0,0,0,0,0,0,1,0,0,0,196,8,2,43,74,4,65,13,0,0,4,2,0,7
+"Delta Squadron Pilot",deltasquadronpilot,imperial,TIE Defender,,small,30,1,3,3,3,3,0,0,0,0,0,0,0,0,1,1,0,0,258,7,4,90,43,5,109,91,0,0,63,1,0,27
+"Onyx Squadron Pilot",onyxsquadronpilot,imperial,TIE Defender,,small,32,3,3,3,3,3,0,0,0,0,0,0,0,0,1,1,0,0,48,2,2,9,11,0,24,11,0,0,5,0,0,6
+"Colonel Vessery",colonelvessery,imperial,TIE Defender,unique,small,35,6,3,3,3,3,1,0,0,0,0,0,0,0,1,1,0,0,744,10,20,261,91,4,358,342,0,0,188,11,0,143
+"Rexler Brath",rexlerbrath,imperial,TIE Defender,unique,small,37,8,3,3,3,3,1,0,0,0,0,0,0,0,1,1,0,0,232,6,2,44,73,1,106,39,0,0,18,0,0,21
+"Knave Squadron Pilot",knavesquadronpilot,rebel,E-Wing,,small,27,1,3,3,2,3,0,1,0,0,1,0,0,1,0,0,0,0,25,0,0,4,16,0,5,0,0,0,0,0,0,0
 "Blackmoon Squadron Pilot",blackmoonsquadronpilot,rebel,E-Wing,,small,29,3,3,3,2,3,0,1,0,0,1,0,0,1,0,0,0,0,14,0,0,3,2,0,9,1,0,0,0,0,0,1
-"Etahn A'baht",etahnabaht,rebel,E-Wing,unique,small,32,5,3,3,2,3,1,1,0,0,1,0,0,1,0,0,0,0,119,6,4,28,37,0,44,6,0,0,1,0,0,5
-"Corran Horn",corranhorn,rebel,E-Wing,unique,small,35,8,3,3,2,3,1,1,0,0,1,0,0,1,0,0,0,0,997,23,31,279,335,7,322,109,0,0,65,11,0,33
+"Etahn A'baht",etahnabaht,rebel,E-Wing,unique,small,32,5,3,3,2,3,1,1,0,0,1,0,0,1,0,0,0,0,118,6,4,28,36,0,44,6,0,0,1,0,0,5
+"Corran Horn",corranhorn,rebel,E-Wing,unique,small,35,8,3,3,2,3,1,1,0,0,1,0,0,1,0,0,0,0,995,23,31,279,333,7,322,109,0,0,65,11,0,33
 "Sigma Squadron Pilot",sigmasquadronpilot,imperial,TIE Phantom,,small,25,3,4,2,2,2,0,0,0,1,1,0,0,0,0,0,0,0,141,6,3,24,54,14,40,6,0,0,1,2,0,3
 "Shadow Squadron Pilot",shadowsquadronpilot,imperial,TIE Phantom,,small,27,5,4,2,2,2,0,0,0,1,1,0,0,0,0,0,0,0,36,0,0,14,11,0,11,0,0,0,0,0,0,0
-"""Echo""",echo,imperial,TIE Phantom,unique,small,30,6,4,2,2,2,1,0,0,1,1,0,0,0,0,0,0,0,377,10,6,90,138,8,125,31,0,0,17,1,0,13
+"""Echo""",echo,imperial,TIE Phantom,unique,small,30,6,4,2,2,2,1,0,0,1,1,0,0,0,0,0,0,0,375,10,6,88,138,8,125,31,0,0,17,1,0,13
 """Whisper""",whisper,imperial,TIE Phantom,unique,small,32,7,4,2,2,2,1,0,0,1,1,0,0,0,0,0,0,0,1365,40,32,320,488,27,458,111,0,0,64,14,0,33
 "Wes Janson",wesjanson,rebel,X-Wing,unique,small,29,8,3,2,3,2,1,1,0,0,0,0,0,1,0,0,0,0,251,5,11,71,66,0,98,37,0,0,20,2,0,15
 "Jek Porkins",jekporkins,rebel,X-Wing,unique,small,26,7,3,2,3,2,1,1,0,0,0,0,0,1,0,0,0,0,9,0,0,1,3,1,4,0,0,0,0,0,0,0
 """Hobbie"" Klivian",hobbieklivian,rebel,X-Wing,unique,small,25,5,3,2,3,2,0,1,0,0,0,0,0,1,0,0,0,0,36,2,0,4,16,0,14,0,0,0,0,0,0,0
-"Tarn Mison",tarnmison,rebel,X-Wing,unique,small,23,3,3,2,3,2,0,1,0,0,0,0,0,1,0,0,0,0,105,6,0,16,44,2,37,5,0,0,1,1,0,3
-"Jake Farrell",jakefarrell,rebel,A-Wing,unique,small,24,7,2,3,2,2,1,0,0,0,0,0,0,0,1,0,0,0,686,14,22,153,195,10,292,63,0,0,34,4,0,25
-"Gemmer Sojan",gemmersojan,rebel,A-Wing,unique,small,22,5,2,3,2,2,0,0,0,0,0,0,0,0,1,0,0,0,77,2,2,12,32,0,29,6,0,0,3,1,0,2
-"Keyan Farlander",keyanfarlander,rebel,B-Wing,unique,small,29,7,3,1,3,5,1,0,0,0,1,0,0,2,0,1,0,0,399,14,9,80,158,1,137,24,0,0,7,6,0,11
+"Tarn Mison",tarnmison,rebel,X-Wing,unique,small,23,3,3,2,3,2,0,1,0,0,0,0,0,1,0,0,0,0,104,6,0,16,44,2,36,5,0,0,1,1,0,3
+"Jake Farrell",jakefarrell,rebel,A-Wing,unique,small,24,7,2,3,2,2,1,0,0,0,0,0,0,0,1,0,0,0,684,14,22,153,193,10,292,63,0,0,34,4,0,25
+"Gemmer Sojan",gemmersojan,rebel,A-Wing,unique,small,22,5,2,3,2,2,0,0,0,0,0,0,0,0,1,0,0,0,76,2,2,12,32,0,28,6,0,0,3,1,0,2
+"Keyan Farlander",keyanfarlander,rebel,B-Wing,unique,small,29,7,3,1,3,5,1,0,0,0,1,0,0,2,0,1,0,0,398,14,9,79,158,1,137,23,0,0,6,6,0,11
 "Nera Dantels",neradantels,rebel,B-Wing,unique,small,26,5,3,1,3,5,1,0,0,0,1,0,0,2,0,1,0,0,151,3,3,30,34,0,81,25,0,0,9,3,0,13
-"Dash Rendar",dashrendar,rebel,YT-2400,unique,large,36,7,2,2,5,5,1,0,0,1,0,0,0,0,1,1,0,0,1240,11,51,360,358,9,451,141,0,0,72,8,0,61
-"Rear Admiral Chiraneau",rearadmiralchiraneau,imperial,VT-49 Decimator,unique,large,46,8,3,0,12,4,1,0,0,3,0,0,0,1,0,0,1,0,1076,8,18,359,331,15,345,173,0,0,97,5,0,71
-"Captain Oicunn",captainoicunn,imperial,VT-49 Decimator,unique,large,42,4,3,0,12,4,1,0,0,3,0,0,0,1,0,0,1,0,486,1,14,114,184,9,164,37,0,0,18,1,0,18
-"""Leebo""",leebo,rebel,YT-2400,unique,large,34,5,2,2,5,5,1,0,0,1,0,0,0,0,1,1,0,0,200,0,5,57,91,1,46,2,0,0,0,0,0,2
+"Dash Rendar",dashrendar,rebel,YT-2400,unique,large,36,7,2,2,5,5,1,0,0,1,0,0,0,0,1,1,0,0,1238,11,49,360,358,9,451,141,0,0,72,8,0,61
+"Rear Admiral Chiraneau",rearadmiralchiraneau,imperial,VT-49 Decimator,unique,large,46,8,3,0,12,4,1,0,0,3,0,0,0,1,0,0,1,0,1074,8,18,359,331,15,343,173,0,0,97,5,0,71
+"Captain Oicunn",captainoicunn,imperial,VT-49 Decimator,unique,large,42,4,3,0,12,4,1,0,0,3,0,0,0,1,0,0,1,0,484,1,14,112,184,9,164,37,0,0,18,1,0,18
+"""Leebo""",leebo,rebel,YT-2400,unique,large,34,5,2,2,5,5,1,0,0,1,0,0,0,0,1,1,0,0,198,0,5,57,89,1,46,2,0,0,0,0,0,2
 "Eaden Vrill",eadenvrill,rebel,YT-2400,unique,large,32,3,2,2,5,5,0,0,0,1,0,0,0,0,1,1,0,0,89,6,2,23,30,0,28,5,0,0,4,0,0,1
 "Commander Kenkirk",commanderkenkirk,imperial,VT-49 Decimator,unique,large,44,6,3,0,12,4,1,0,0,3,0,0,0,1,0,0,1,0,216,1,7,41,90,4,73,26,0,0,11,5,0,10
 "Patrol Leader",patrolleader,imperial,VT-49 Decimator,,large,40,3,3,0,12,4,0,0,0,3,0,0,0,1,0,0,1,0,111,0,5,33,33,4,36,6,0,0,3,0,0,3
-"Wild Space Fringer",wildspacefringer,rebel,YT-2400,,large,30,2,2,2,5,5,0,0,0,1,0,0,0,0,1,1,0,0,110,0,1,23,43,5,38,5,0,0,3,0,0,2
-"Boba Fett",bobafett,scum,Firespray-31,unique,large,39,8,3,2,6,4,1,0,0,1,0,0,0,0,1,1,1,1,584,4,14,171,193,3,199,65,0,0,21,10,0,34
+"Wild Space Fringer",wildspacefringer,rebel,YT-2400,,large,30,2,2,2,5,5,0,0,0,1,0,0,0,0,1,1,0,0,109,0,1,23,42,5,38,5,0,0,3,0,0,2
+"Boba Fett",bobafett,scum,Firespray-31,unique,large,39,8,3,2,6,4,1,0,0,1,0,0,0,0,1,1,1,1,582,4,14,171,191,3,199,65,0,0,21,10,0,34
 "Prince Xizor",princexizor,scum,StarViper,unique,small,31,7,3,3,4,1,1,0,0,0,0,0,0,1,0,0,0,0,101,0,1,19,38,3,40,4,0,0,1,0,0,3
 "Kath Scarlet",kathscarlet,scum,Firespray-31,unique,large,38,7,3,2,6,4,1,0,0,1,0,0,0,0,1,1,1,1,481,0,15,147,144,4,171,85,0,0,47,11,0,27
 "Emon Azzameen",emonazzameen,scum,Firespray-31,unique,large,36,6,3,2,6,4,0,0,0,1,0,0,0,0,1,1,1,1,84,0,2,24,35,2,21,5,0,0,3,1,0,1
@@ -120,7 +120,7 @@ Name,XWS,Faction,Ship,Unique,Size,Points,Skill,Attack,Agility,Hull,Shields,Elite
 "Laetin A'shera",laetinashera,scum,M3-A Interceptor,unique,small,18,6,2,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,7,14,1,19,4,0,0,0,0,0,4
 "Cartel Spacer",cartelspacer,scum,M3-A Interceptor,,small,14,2,2,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,270,0,3,76,51,12,128,70,0,0,34,4,0,32
 "Tansarii Point Veteran",tansariipointveteran,scum,M3-A Interceptor,,small,17,5,2,3,2,1,1,0,0,0,0,0,0,0,0,0,0,0,140,1,1,48,25,2,63,56,0,0,27,7,0,22
-"Hired Gun",hiredgun,scum,Y-Wing,,small,20,4,2,1,5,3,0,0,1,0,0,0,1,2,0,0,0,0,128,5,0,35,39,0,49,17,0,0,5,0,0,12
+"Hired Gun",hiredgun,scum,Y-Wing,,small,20,4,2,1,5,3,0,0,1,0,0,0,1,2,0,0,0,0,124,5,0,35,35,0,49,17,0,0,5,0,0,12
 "Spice Runner",spicerunner,scum,HWK-290,,small,16,1,1,2,4,1,0,0,0,1,0,0,1,0,0,0,0,1,36,0,0,3,19,2,12,1,0,0,0,0,0,1
 "Lieutenant Colzet",lieutenantcolzet,imperial,TIE Advanced,unique,small,23,3,2,3,3,2,0,0,0,0,0,0,0,0,1,0,0,0,97,2,1,7,40,0,47,0,0,0,0,0,0,0
 "Zertik Strom",zertikstrom,imperial,TIE Advanced,unique,small,26,6,2,3,3,2,1,0,0,0,0,0,0,0,1,0,0,0,29,0,0,3,6,1,19,1,0,0,1,0,0,0
@@ -134,7 +134,7 @@ Name,XWS,Faction,Ship,Unique,Size,Points,Skill,Attack,Agility,Hull,Shields,Elite
 "Talonbane Cobra",talonbanecobra,scum,Kihraxz Fighter,unique,small,28,9,3,2,4,1,1,0,0,0,0,0,0,0,1,0,0,1,188,1,2,26,51,3,105,24,0,0,13,0,0,11
 "Warden Squadron Pilot",wardensquadronpilot,rebel,K-Wing,,small,23,2,2,1,5,4,0,0,0,1,0,0,1,2,1,0,2,0,394,3,3,103,112,3,170,126,0,0,81,0,0,45
 "Esege Tuketu",esegetuketu,rebel,K-Wing,unique,small,28,6,2,1,5,4,0,0,0,1,0,0,1,2,1,0,2,0,46,0,0,12,14,0,20,13,0,0,8,1,0,4
-"Miranda Doni",mirandadoni,rebel,K-Wing,unique,small,29,8,2,1,5,4,0,0,0,1,0,0,1,2,1,0,2,0,960,7,26,240,289,5,393,263,0,0,155,12,0,96
+"Miranda Doni",mirandadoni,rebel,K-Wing,unique,small,29,8,2,1,5,4,0,0,0,1,0,0,1,2,1,0,2,0,958,7,24,240,289,5,393,263,0,0,155,12,0,96
 """Redline""",redline,imperial,TIE Punisher,unique,small,27,7,2,1,6,3,0,0,0,0,1,0,0,2,2,0,2,0,113,0,0,17,33,1,62,6,0,0,3,0,0,3
 """Deathrain""",deathrain,imperial,TIE Punisher,unique,small,26,6,2,1,6,3,0,0,0,0,1,0,0,2,2,0,2,0,80,0,1,8,20,3,48,8,0,0,4,0,0,4
 "Cutlass Squadron Pilot",cutlasssquadronpilot,imperial,TIE Punisher,,small,21,2,2,1,6,3,0,0,0,0,1,0,0,2,2,0,2,0,37,0,0,2,5,2,28,5,0,0,0,0,0,5
@@ -148,9 +148,9 @@ Name,XWS,Faction,Ship,Unique,Size,Points,Skill,Attack,Agility,Hull,Shields,Elite
 """Zeta Ace""",zetaace,imperial,TIE/fo Fighter,unique,small,18,5,2,3,3,1,1,0,0,0,0,1,0,0,0,0,0,0,40,0,0,4,14,0,22,7,0,0,1,1,0,5
 "Zeta Squadron Pilot",zetasquadronpilot,imperial,TIE/fo Fighter,,small,16,3,2,3,3,1,0,0,0,0,0,1,0,0,0,0,0,0,80,0,0,4,26,4,46,5,0,0,2,1,0,2
 "Omega Squadron Pilot",omegasquadronpilot,imperial,TIE/fo Fighter,,small,17,4,2,3,3,1,1,0,0,0,0,1,0,0,0,0,0,0,187,2,1,31,69,0,84,16,0,0,7,4,0,5
-"Blue Squadron Novice",bluesquadronnovice,rebel,T-70 X-Wing,,small,24,2,3,2,3,3,0,1,0,0,0,1,0,1,0,0,0,0,328,0,0,68,119,0,141,33,0,0,14,3,0,16
+"Blue Squadron Novice",bluesquadronnovice,rebel,T-70 X-Wing,,small,24,2,3,2,3,3,0,1,0,0,0,1,0,1,0,0,0,0,325,0,0,66,118,0,141,33,0,0,14,3,0,16
 "Poe Dameron",poedameron,rebel,T-70 X-Wing,unique,small,31,8,3,2,3,3,1,1,0,0,0,1,0,1,0,0,0,0,1326,7,9,194,549,9,558,163,0,0,76,32,0,55
-"""Red Ace""",redace,rebel,T-70 X-Wing,unique,small,29,6,3,2,3,3,0,1,0,0,0,1,0,1,0,0,0,0,121,0,0,8,68,0,45,4,0,0,1,0,0,3
+"""Red Ace""",redace,rebel,T-70 X-Wing,unique,small,29,6,3,2,3,3,0,1,0,0,0,1,0,1,0,0,0,0,120,0,0,8,68,0,44,4,0,0,1,0,0,3
 "Red Squadron Veteran",redsquadronveteran,rebel,T-70 X-Wing,,small,26,4,3,2,3,3,1,1,0,0,0,1,0,1,0,0,0,0,138,0,2,17,48,3,68,20,0,0,9,4,0,7
 """Blue Ace""",blueace,rebel,T-70 X-Wing,unique,small,27,5,3,2,3,3,0,1,0,0,0,1,0,1,0,0,0,0,55,0,2,1,15,2,35,10,0,0,0,1,0,9
 "Hera Syndulla",herasyndulla,rebel,VCX-100,unique,large,40,7,4,0,10,6,0,0,0,2,1,0,1,2,0,0,0,0,82,0,0,23,25,0,34,14,0,0,6,2,0,6
@@ -171,9 +171,9 @@ Name,XWS,Faction,Ship,Unique,Size,Points,Skill,Attack,Agility,Hull,Shields,Elite
 """Zeb"" Orrelios",zeborrelios,rebel,Attack Shuttle,unique,small,18,3,3,2,2,2,0,0,0,1,0,0,1,0,0,0,0,0,163,0,7,55,13,0,88,64,0,0,33,2,0,29
 "Tomax Bren",tomaxbren,imperial,TIE Bomber,unique,small,24,8,2,2,6,0,1,0,0,0,0,0,0,2,2,0,1,0,100,0,2,22,4,0,72,37,0,0,15,1,0,21
 "Gamma Squadron Veteran",gammasquadronveteran,imperial,TIE Bomber,,small,19,5,2,2,6,0,1,0,0,0,0,0,0,2,2,0,1,0,73,0,0,20,2,0,51,30,0,0,12,0,0,18
-"Ello Asty",elloasty,rebel,T-70 X-Wing,unique,small,30,7,3,2,3,3,1,1,0,0,0,1,0,1,0,0,0,0,163,0,2,9,94,0,58,11,0,0,2,1,0,8
+"Ello Asty",elloasty,rebel,T-70 X-Wing,unique,small,30,7,3,2,3,3,1,1,0,0,0,1,0,1,0,0,0,0,162,0,2,9,94,0,57,11,0,0,2,1,0,8
 "Valen Rudor",valenrudor,imperial,TIE Adv. Prototype,unique,small,22,6,2,3,2,2,1,0,0,0,0,0,0,0,1,0,0,0,51,0,0,11,9,0,31,10,0,0,1,1,0,8
-"Sienar Test Pilot",sienartestpilot,imperial,TIE Adv. Prototype,,small,16,2,2,3,2,2,0,0,0,0,0,0,0,0,1,0,0,0,51,0,0,13,16,0,22,4,0,0,0,1,0,3
+"Sienar Test Pilot",sienartestpilot,imperial,TIE Adv. Prototype,,small,16,2,2,3,2,2,0,0,0,0,0,0,0,0,1,0,0,0,48,0,0,13,16,0,19,3,0,0,0,1,0,2
 "4-LOM",4lom,scum,G-1A Starfighter,unique,small,27,6,3,1,4,4,1,0,0,1,1,0,0,0,0,0,0,1,61,0,1,20,11,0,29,13,0,0,5,1,0,7
 "Contracted Scout",contractedscout,scum,JumpMaster 5000,,large,25,3,2,2,5,4,1,0,1,1,0,0,0,2,0,0,0,1,1416,2,65,663,190,0,496,105,0,0,66,5,0,34
 "Manaroo",manaroo,scum,JumpMaster 5000,unique,large,27,4,2,2,5,4,1,0,1,1,0,0,0,2,0,0,0,1,684,2,21,313,32,0,316,396,0,0,231,12,0,153
@@ -183,9 +183,9 @@ Name,XWS,Faction,Ship,Unique,Size,Points,Skill,Attack,Agility,Hull,Shields,Elite
 "Gand Findsman",gandfindsman,scum,G-1A Starfighter,,small,25,5,3,1,4,4,1,0,0,1,1,0,0,0,0,0,0,1,25,3,2,8,0,0,12,6,0,0,4,0,0,2
 "Ruthless Freelancer",ruthlessfreelancer,scum,G-1A Starfighter,,small,23,3,3,1,4,4,0,0,0,1,1,0,0,0,0,0,0,1,45,0,2,11,12,0,20,3,0,0,0,0,0,3
 """Deathfire""",deathfire,imperial,TIE Bomber,unique,small,17,3,2,2,6,0,0,0,0,0,0,0,0,2,2,0,1,0,46,0,0,19,2,0,25,29,0,0,17,2,0,10
-"Glaive Squadron Pilot",glaivesquadronpilot,imperial,TIE Defender,,small,34,6,3,3,3,3,1,0,0,0,0,0,0,0,1,1,0,0,168,0,4,63,5,0,96,83,0,0,43,1,0,39
-"Maarek Stele",maarekstele,imperial,TIE Defender,unique,small,35,7,3,3,3,3,1,0,0,0,0,0,0,0,1,1,0,0,157,0,0,79,4,0,74,104,0,0,70,2,0,32
-"Countess Ryad",countessryad,imperial,TIE Defender,unique,small,34,5,3,3,3,3,1,0,0,0,0,0,0,0,1,1,0,0,745,1,15,322,21,0,386,487,0,0,266,14,0,207
+"Glaive Squadron Pilot",glaivesquadronpilot,imperial,TIE Defender,,small,34,6,3,3,3,3,1,0,0,0,0,0,0,0,1,1,0,0,89,0,2,21,2,0,64,39,0,0,14,0,0,25
+"Maarek Stele",maarekstele,imperial,TIE Defender,unique,small,35,7,3,3,3,3,1,0,0,0,0,0,0,0,1,1,0,0,140,0,0,73,4,0,63,97,0,0,68,2,0,27
+"Countess Ryad",countessryad,imperial,TIE Defender,unique,small,34,5,3,3,3,3,1,0,0,0,0,0,0,0,1,1,0,0,696,1,14,300,18,0,363,454,0,0,249,12,0,193
 "Poe Dameron",poedameron-swx57,rebel,T-70 X-Wing,unique,small,33,9,3,2,3,3,1,1,0,0,0,1,0,1,0,0,0,0,95,0,0,41,2,0,52,95,0,0,41,2,0,52
 "Rey",rey,rebel,YT-1300,unique,large,45,8,3,1,8,5,1,0,0,2,0,0,0,0,1,0,0,0,245,0,0,133,9,0,103,244,0,0,133,9,0,102
 "Shara Bey",sharabey,rebel,ARC-170,unique,small,28,6,2,1,6,3,1,1,0,1,0,0,0,1,0,0,0,0,50,0,0,20,3,0,27,43,0,0,20,2,0,21

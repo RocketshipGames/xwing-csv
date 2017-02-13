@@ -846,7 +846,8 @@ func readtournament(file string, parent *logberry.Task) error {
 			continue
 		}
 
-		// For each pilot this player fielded
+		// Check that the list is a valid dogfight list
+		points := 0
 		for _,pilotinstance := range(player.List.Pilots) {
 			xws,err := pilotmap(player.List.Faction, pilotinstance.Ship, pilotinstance.XWS)
 			if err != nil {
@@ -859,6 +860,19 @@ func readtournament(file string, parent *logberry.Task) error {
 			}
 
 			pilotinstance.pilot = pilot
+
+			points += int(pilot.Points)
+		}
+
+		if points > 100 {
+			task.Warning("List was over 100 points", points)
+			continue
+		}
+		
+		// Update stats for this player's pilots
+		for _,pilotinstance := range(player.List.Pilots) {
+
+			pilot := pilotinstance.pilot
 
 			// Increment total times this pilot has been used
 			err = pilot.alltime.Increment(tournament.Scope)
@@ -901,7 +915,7 @@ func readtournament(file string, parent *logberry.Task) error {
 		
 	}
 
-	// Only count tournaments that actually reported players with lists
+	// Only count tournaments that actually reported players with valid lists
 	if listcount > 0 {
 		if recent {
 			recentcounts.Tournaments++

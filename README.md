@@ -37,7 +37,7 @@ Excel](https://products.office.com/en-us/excel) (untested) as well as
 many other tools.  The smaller files can also be viewed in readable
 tabular fashion
 [directly](https://github.com/RocketshipGames/xwing-csv/tree/master/archives)
-in GitHub's viewer.
+in GitHub's file viewer.
 
 ## Dependencies
 
